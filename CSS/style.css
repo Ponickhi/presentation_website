@@ -989,7 +989,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 50%;
   -webkit-transform: translate(0, -50%);
           transform: translate(0, -50%);
-  left: 15%;
+  left: 50%;
 }
 
 .arrow_forward {
@@ -997,7 +997,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 50%;
   -webkit-transform: translate(0, -50%);
           transform: translate(0, -50%);
-  right: 15%;
+  right: 50%;
 }
 
 /*------------------*/
